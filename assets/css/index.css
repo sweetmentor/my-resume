@@ -20,6 +20,7 @@
 }
 
 
+
 header {
     margin: 0;
 }
@@ -99,3 +100,12 @@ header {
     height: 120px;
 }
 
+section {
+    font-family: Roboto, sans-serif;
+    background-color: #7FFFD4;
+    color: #555555;
+}
+
+.col-md-6 {
+    padding-top: 20px;
+}
